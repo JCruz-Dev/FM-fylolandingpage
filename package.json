@@ -1,0 +1,24 @@
+{
+  "name": "fm-fylolandingpage",
+  "version": "1.0.0",
+  "description": "Fylo landing page with two columns from Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCruz-Dev/FM-fylolandingpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCruz-Dev/FM-fylolandingpage/issues"
+  },
+  "homepage": "https://github.com/JCruz-Dev/FM-fylolandingpage#readme",
+  "dependencies": {
+    "sass": "^1.39.2"
+  }
+}
